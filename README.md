@@ -1,2 +1,2 @@
-# ISS-Tracker
-Code for c79
+# Rastreador de la EEI
+Código para la clase 79
