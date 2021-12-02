@@ -34,7 +34,7 @@ export default class MeteorScreen extends Component {
                         justifyContent: "center",
                         alignItems: "center"
                     }}>
-                    <Text>Loading</Text>
+                    <Text>Cargando</Text>
                 </View>
             )
         } else {
@@ -56,7 +56,7 @@ export default class MeteorScreen extends Component {
                         justifyContent: "center",
                         alignItems: "center"
                     }}>
-                    <Text>Meteor Screen!</Text>
+                    <Text>Pantalla meteoritos</Text>
                 </View>
             )
         }
